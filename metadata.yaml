@@ -1,5 +1,7 @@
 homepage: "https://powerclick.io"
 documentation: "https://github.com/datasift-io/powerclick-microsoft-capi#readme"
 versions:
+  - sha: f8085a58dee7dcbc0376b9080b53e32b17c4579e
+    changeNotes: Adds the PowerClick icon.
   - sha: e1d5aa4dbca5b947d3aa2662b590fb802385eeb6
     changeNotes: Initial release.
